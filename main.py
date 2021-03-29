@@ -1,6 +1,6 @@
 def main():
-    START = b"[01/Jul/1995:00:10"
-    END = b"[01/Jul/1995:20:"
+    START = b"[01/Jul/1995:00:10:"
+    END = b"[01/Jul/1995:00:20:"
     KEEP_PHRASE = b"NASA"
     is_needed_time = False
     line_counter = 0
